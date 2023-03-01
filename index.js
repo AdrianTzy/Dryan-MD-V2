@@ -1,1 +1,61 @@
-const _0x3cb637=_0x43ea;(function(_0x2b5484,_0x4762ab){const _0x2bdc3f=_0x43ea,_0x499d3b=_0x2b5484();while(!![]){try{const _0x2677f=-parseInt(_0x2bdc3f(0xad))/0x1*(-parseInt(_0x2bdc3f(0xc6))/0x2)+-parseInt(_0x2bdc3f(0xce))/0x3*(parseInt(_0x2bdc3f(0xca))/0x4)+-parseInt(_0x2bdc3f(0xac))/0x5*(-parseInt(_0x2bdc3f(0xc1))/0x6)+parseInt(_0x2bdc3f(0xc9))/0x7*(parseInt(_0x2bdc3f(0xc7))/0x8)+-parseInt(_0x2bdc3f(0xc2))/0x9+-parseInt(_0x2bdc3f(0xd2))/0xa*(-parseInt(_0x2bdc3f(0xb0))/0xb)+-parseInt(_0x2bdc3f(0xcd))/0xc;if(_0x2677f===_0x4762ab)break;else _0x499d3b['push'](_0x499d3b['shift']());}catch(_0x42289e){_0x499d3b['push'](_0x499d3b['shift']());}}}(_0x2014,0xaae47),console['log'](_0x3cb637(0xbc)));import{join,dirname}from'path';function _0x2014(){const _0x4baa9f=['3717405FOIpHj','trim','message','url','75128hmAMOH','112096AOXJTo','argv','287tFPDpv','8572KQgrGT','parse','listenerCount','12747072sWDZfQ','423VVNxPg','main.js','blue','process','420CiWwSf','send','white','exitProcess','uptime','center','5BvTCpL','22XPJZxP','[RECEIVED]','\x20Dryan-MD\x20By\x20@DryanBOT','94391vtlfoV','magenta','chrome','exit','console','red','line','emit','./package.json','kill','⸙\x20MEMUAT\x20SOURCE...','stdin','🕖\x20Starting...','Dryan-MD','✅\x20DONE\x20!','reset','error','4296822OlOhzo'];_0x2014=function(){return _0x4baa9f;};return _0x2014();}import{createRequire}from'module';import{fileURLToPath}from'url';import{setupMaster,fork}from'cluster';import{watchFile,unwatchFile}from'fs';import _0xcb24f7 from'cfonts';import{createInterface}from'readline';function _0x43ea(_0x1eb594,_0x21ab7a){const _0x201425=_0x2014();return _0x43ea=function(_0x43ea13,_0x1f1b38){_0x43ea13=_0x43ea13-0xa9;let _0x15855f=_0x201425[_0x43ea13];return _0x15855f;},_0x43ea(_0x1eb594,_0x21ab7a);}import _0x7ed525 from'yargs';const __dirname=dirname(fileURLToPath(import.meta[_0x3cb637(0xc5)])),require=createRequire(__dirname),{name,author}=require(join(__dirname,_0x3cb637(0xb8))),{say}=_0xcb24f7,rl=createInterface(process[_0x3cb637(0xbb)],process['stdout']);say(_0x3cb637(0xbd),{'font':_0x3cb637(0xb2),'align':_0x3cb637(0xab),'colors':[_0x3cb637(0xb5),'magenta']}),say(_0x3cb637(0xaf),{'font':'console','align':_0x3cb637(0xab),'colors':[_0x3cb637(0xb5),_0x3cb637(0xb1)]});var isRunning=![];function start(_0x625dc4){const _0x462c0b=_0x3cb637;if(isRunning)return;isRunning=!![];let _0x24183c=[join(__dirname,_0x625dc4),...process[_0x462c0b(0xc8)]['slice'](0x2)];say([process[_0x462c0b(0xc8)][0x0],..._0x24183c]['join']('\x20'),{'font':_0x462c0b(0xb4),'align':'center','colors':[_0x462c0b(0xb1)]}),say(_0x462c0b(0xba),{'font':_0x462c0b(0xb4),'align':_0x462c0b(0xab),'colors':[_0x462c0b(0xd0)]}),say('⸙\x20MEMUAT\x20PLUGINS...',{'font':'console','align':_0x462c0b(0xab),'colors':[_0x462c0b(0xd0)]}),say(_0x462c0b(0xbe),{'font':'console','align':_0x462c0b(0xab),'colors':[_0x462c0b(0xd4)]}),setupMaster({'exec':_0x24183c[0x0],'args':_0x24183c['slice'](0x1)});let _0x525c11=fork();_0x525c11['on'](_0x462c0b(0xc4),_0x513451=>{const _0xc46fd0=_0x462c0b;console['log'](_0xc46fd0(0xae),_0x513451);switch(_0x513451){case _0xc46fd0(0xbf):_0x525c11[_0xc46fd0(0xd1)][_0xc46fd0(0xb9)](),isRunning=![],start['apply'](this,arguments);break;case _0xc46fd0(0xaa):_0x525c11[_0xc46fd0(0xd3)](process[_0xc46fd0(0xaa)]());break;}}),_0x525c11['on'](_0x462c0b(0xb3),(_0x193501,_0x2d62f8)=>{const _0x3770d2=_0x462c0b;isRunning=![],console[_0x3770d2(0xc0)]('[❗]\x20Exited\x20with\x20code:',_0x2d62f8);if(_0x2d62f8===0x0)return;watchFile(_0x24183c[0x0],()=>{unwatchFile(_0x24183c[0x0]),start(_0x625dc4);});});let _0x161e99=new Object(_0x7ed525(process[_0x462c0b(0xc8)]['slice'](0x2))[_0x462c0b(0xa9)](![])[_0x462c0b(0xcb)]());if(!_0x161e99['test']){if(!rl[_0x462c0b(0xcc)]())rl['on'](_0x462c0b(0xb6),_0x4c4a69=>{const _0x235a97=_0x462c0b;_0x525c11[_0x235a97(0xb7)](_0x235a97(0xc4),_0x4c4a69[_0x235a97(0xc3)]());});}}start(_0x3cb637(0xcf));
+
+console.log('Starting...')
+let { spawn } = require('child_process')
+let path = require('path')
+let fs = require('fs')
+let package = require('./package.json')
+const CFonts  = require('cfonts')
+CFonts.say('Dryan-MD\nWhatsApp Bot', {
+  font: 'chrome',
+  align: 'center',
+  gradient: ['red', 'magenta']
+})
+CFonts.say(`Jangan Lupa Scnya:)`, {
+  font: 'console',
+  align: 'center',
+  gradient: ['red', 'magenta']
+})
+
+var isRunning = false
+/**
+ * Start a js file
+ * @param {String} file `path/to/file`
+ */
+function start(file) {
+  if (isRunning) return
+  isRunning = true
+  let args = [path.join(__dirname, file), ...process.argv.slice(2)]
+  CFonts.say([process.argv[0], ...args].join(' '), {
+    font: 'console',
+    align: 'center',
+    gradient: ['red', 'magenta']
+  })
+  let p = spawn(process.argv[0], args, {
+    stdio: ['inherit', 'inherit', 'inherit', 'ipc']
+  })
+  p.on('message', data => {
+    console.log('[RECEIVED]', data)
+    switch (data) {
+      case 'reset':
+        p.kill()
+        isRunning = false
+        start.apply(this, arguments)
+        break
+      case 'uptime':
+        p.send(process.uptime())
+        break
+    }
+  })
+  p.on('exit', code => {
+    isRunning = false
+    console.error('Exited with code:', code)
+    if (code === 0) return
+    fs.watchFile(args[0], () => {
+      fs.unwatchFile(args[0])
+      start(file)
+    })
+  })
+  // console.log(p)
+}
+
+start('main.js')
